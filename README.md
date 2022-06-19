@@ -1,3 +1,7 @@
-  aula 10 finalzinho refactorando o codigo
+# Simples Instalação...
 
- `url(${m1})`
+## npm install
+
+## Npm install redux 
+
+## npm start
